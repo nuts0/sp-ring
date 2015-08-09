@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "nuts0",
+    "longName": "sp-ring",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "sp-ring",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "5cb493cf-f163-4e1d-be4f-b7fb7c946b59",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
